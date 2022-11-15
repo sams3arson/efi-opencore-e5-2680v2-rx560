@@ -3,9 +3,9 @@
 ![Screenshot](https://i.imgur.com/K7VkOwX.png)
 
 Specs:
-CPU - Xeon E5-2680v2
-GPU - Radeon RX 560
-MB - Machinist X79
+* CPU - Xeon E5-2680v2
+* GPU - Radeon RX 560
+* MB - Machinist X79
 > cringe chinese homeless build
 
 Can be used to boot to macOS Monterey (only 12.6 was tested) on PCs with similar specs.
